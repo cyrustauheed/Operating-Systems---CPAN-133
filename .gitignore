@@ -1,0 +1,5 @@
+# Ignore all .DS_Store files in any subdirectory
+**/.DS_Store
+
+# Ignore all text.txt files in any subdirectory
+**/text.txt
